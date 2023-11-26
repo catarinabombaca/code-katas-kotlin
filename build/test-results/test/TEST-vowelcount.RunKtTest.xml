@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="vowelcount.RunKtTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-26T16:02:29" hostname="Catarinas-MacBook-Pro.local" time="0.015">
-  <properties/>
-  <testcase name="when given 'abc' string return the number of vowels in it()" classname="vowelcount.RunKtTest" time="0.013"/>
-  <testcase name="when given 'a' string return the number of vowels in it()" classname="vowelcount.RunKtTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
